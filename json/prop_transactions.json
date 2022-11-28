@@ -1,0 +1,23 @@
+{
+    "Property_Transactions": {
+        "Property A": [
+            {
+                "Transaction ID": "d9571f27-4e31-11ed-9913-f8e43bbb30d2",
+                "Property": "Property A",
+                "Price": 408,
+                "Buyer Name": "r",
+                "Seller Name": null,
+                "Timestamp": "2022-10-17 AT 21:09 PM"
+            }
+        ],
+        "Property B": [],
+        "Property C": [],
+        "Property D": [],
+        "Property E": [],
+        "Property F": [],
+        "Property G": [],
+        "Property H": [],
+        "Property I": [],
+        "Property J": []
+    }
+}
